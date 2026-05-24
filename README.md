@@ -4,7 +4,7 @@ BERT and ModernBERT results (linear and CRF heads, sentence and document context
 
 Evaluating document-level context and CRF decoding in ModernBERT for CoNLL-2003 named entity recognition (NER).
 
-Overleaf document: [modernbert-ner-ablation](https://www.overleaf.com/project/6996373c44b841199bc3c599)
+Final report: [ModernBERT_NER_Ablation_Study.pdf](ModernBERT_NER_Ablation_Study.pdf)
 
 ## Abstract
 
